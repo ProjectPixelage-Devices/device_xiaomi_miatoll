@@ -2,7 +2,6 @@
 vendor.camera.				u:object_r:vendor_camera_prop:s0
 
 # Fingerprint
-persist.vendor.fingerprint.             u:object_r:vendor_fingerprint_prop:s0
 persist.vendor.sys.fp.                  u:object_r:vendor_fingerprint_prop:s0
 vendor.sys.fp                           u:object_r:vendor_fingerprint_prop:s0
 
