@@ -189,9 +189,6 @@ persist.vendor.fingerprint.type=side
 persist.vendor.fingerprint.sensor_location=1080|760|100|local:4630946580317548417,1080|760|100|local:4630947024726438529
 persist.vendor.fingerprint.sensor_modules=fpc,goodix
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
-
 # Incremental FS
 ro.incremental.enable=true
 
